@@ -1,8 +1,27 @@
 # 75-days-data-analysis-challenge
 This analysis focuses on the application of topics related to MS Excel, Power BI, SQL, and Python programming.
 # Power BI
+Day_16 : Introduction to Power BI and its components
+Power BI is a business analytics tool developed by Microsoft that enables users to visualize data, share insights, and make data-driven decisions. It integrates data from various sources, transforming it into interactive and insightful visual reports and dashboards. Power BI connects to various data sources through a secure and user-friendly interface. Users can quickly explore and interact with their data.
+
+Day_17 : Connecting to various data sources in Power BI
+Power BI provides a flexible and robust platform to connect, analyze, and visualize data from a wide range of sources. Whether you're working with local files like Excel and CSV, relational databases such as SQL Server and MySQL, cloud-based platforms like Azure, or even web data and APIs, Power BI makes it easy to bring data together into a single, cohesive view.
+
+Day_18 : Data modeling in Power BI
+Data modeling in Power BI is a crucial process that involves designing and structuring data relationships to create efficient and meaningful reports and dashboards. It helps in organizing raw data into a structured format, enabling more accurate analysis and better insights.
+
+Day_19 : Creating calculated columns and measures in DAX
+In Power BI and other data analysis tools that support DAX (Data Analysis Expressions), calculated columns and measures are essential for custom calculations and data manipulation. Measures and DAX (Data Analysis Expressions) are foundational to performing advanced data analysis in Power BI. DAX is a robust formula language that allows users to create dynamic, real-time calculations that respond to filters and context within reports.
+
+Day_20 : Designing interactive visualizations in Power BI 
+Power BI’s visualization tools are designed to turn complex datasets into easily understandable, interactive graphics that reveal trends, patterns, and insights. It offers a broad selection of visuals, including bar and column charts for categorical comparisons, line and area charts for tracking trends over time, and pie or donut charts for illustrating proportions.. The platform’s flexibility empowers users to create visually appealing, data-rich dashboards that support strategic decision-making and enhance data storytelling.
+
+Day_21 : Power BI's AI capabilities for quick insights 
+Power BI's AI capabilities for Quick Insights leverage Microsoft's machine learning algorithms to provide users with automated data exploration and analysis. This feature identifies patterns, trends, anomalies, and correlations within a dataset to give users valuable insights without manually building complex queries or models.
+
 Day_22: Creating & Sharing Power BI Reports
 Creating and sharing Power BI reports allows organizations to transform raw data into actionable insights and make those insights accessible to a wide audience. Through Power BI Desktop, users can connect to diverse data sources, clean and model the data, and design interactive, visually appealing reports. Sharing options in Power BI Service enable users to distribute reports to team members or external stakeholders, whether through direct sharing, embedding in applications, or exporting for non-interactive use.
+
 Day_23 : Power BI's Q&A feature for natural language queries
 Power BI’s Q&A feature brings a new level of accessibility and efficiency to data analysis by allowing users to query data in plain language. This tool empowers users, regardless of their technical background, to gain insights quickly and visually without the need for complex coding or extensive training. By streamlining data exploration through suggestions, automatic visualizations, and customization options, Q&A enhances the interactivity and flexibility of Power BI reports, making it easier for businesses to make data-driven decisions in real-time.
 
