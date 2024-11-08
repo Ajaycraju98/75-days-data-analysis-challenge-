@@ -46,3 +46,6 @@ For a data analyst, mastering these techniques in tools like Power BI not only e
 Day_29: Power BI's mobile app features
 Power BI's mobile app enables users to access and interact with data dashboards and reports on the go. With real-time updates, interactive visualizations, and push notifications, users can stay informed about key metrics wherever they are. The app supports natural language Q&A for easy insights, offers offline access, and provides optimized layouts for mobile screens, making data accessible and actionable anytime. Available on iOS and Android, it's a valuable tool for data-driven decisions on the move.With real-time updates, intuitive visualizations, and offline capabilities, the app empowers users to stay informed and make data-driven decisions anywhere. Its user-friendly interface and collaboration tools make it an essential tool for professionals needing quick insights and team communication, all from the convenience of a mobile device.
 
+Day_30:  Integrating R and Python scripts in Power BI 
+Integrating R and Python in Power BI brings a powerful combination of advanced analytics and custom visuals to data analysis. This integration allows data analysts to extend Power BI’s functionality, leveraging the statistical and visualization capabilities of R and Python for more insightful and customized reporting.
+
